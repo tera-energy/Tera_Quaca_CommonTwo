@@ -1,0 +1,27 @@
+{
+    "customer": {
+        "version": "1.0",
+        "versionNumber": "20210302",
+        "serverUrl": "http://192.168.0.53:10010/"
+    },
+    "store": {
+        "version": "1.0",
+        "versionNumber": "20210302",
+        "serverUrl": "http://192.168.0.53:10020/"
+    },
+    "store_WEB": {
+        "version": "1.0",
+        "versionNumber": "20210412",
+        "serverUrl": "http://192.168.0.53:10030/"
+    },
+    "customerNotice": {
+        "version": "1.0",
+        "versionNumber": "20210303",
+        "serverUrl": "http://192.168.0.53:10050/"
+    },
+    "storeNotice": {
+        "version": "1.0",
+        "versionNumber": "20210303",
+        "serverUrl": "http://192.168.0.53:10060/"
+    }
+}
