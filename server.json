@@ -28,5 +28,11 @@
         "versionNumber": "20210830",
         "serverUrl": "http://teraenergy.iptime.org:10060/",
         "status" : "Do not used"
+    },
+    "webView": {
+        "version": "1.0",
+        "versionNumber": "20210830",
+        "serverUrl": "http://teraenergy.iptime.org:8080/",
+        "status" : "in use"
     }
 }
