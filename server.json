@@ -1,27 +1,32 @@
 {
     "customer": {
         "version": "1.0",
-        "versionNumber": "20210302",
-        "serverUrl": "http://192.168.0.53:10010/"
+        "versionNumber": "20210830",
+        "serverUrl": "http://teraenergy.iptime.org:10010/",
+        "status" : "in use"
     },
-    "store": {
+    "userTab": {
         "version": "1.0",
-        "versionNumber": "20210302",
-        "serverUrl": "http://192.168.0.53:10020/"
+        "versionNumber": "20210830",
+        "serverUrl": "http://teraenergy.iptime.org:10020/",
+        "status" : "in use"
     },
     "store_WEB": {
         "version": "1.0",
-        "versionNumber": "20210412",
-        "serverUrl": "http://192.168.0.53:10030/"
+        "versionNumber": "20210830",
+        "serverUrl": "http://teraenergy.iptime.org:10030/",
+        "status" : "in use"
     },
     "customerNotice": {
         "version": "1.0",
-        "versionNumber": "20210303",
-        "serverUrl": "http://192.168.0.53:10050/"
+        "versionNumber": "20210830",
+        "serverUrl": "http://teraenergy.iptime.org:10050/",
+        "status" : "in use"
     },
     "storeNotice": {
         "version": "1.0",
-        "versionNumber": "20210303",
-        "serverUrl": "http://192.168.0.53:10060/"
+        "versionNumber": "20210830",
+        "serverUrl": "http://teraenergy.iptime.org:10060/",
+        "status" : "Do not used"
     }
 }
